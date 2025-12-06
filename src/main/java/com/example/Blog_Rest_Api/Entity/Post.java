@@ -9,8 +9,9 @@ import javax.xml.stream.events.Comment;
 import java.util.List;
 import java.util.Set;
 
-@Data
+
 @Entity
+@Data
 @AllArgsConstructor
 @NoArgsConstructor
 public class Post {
